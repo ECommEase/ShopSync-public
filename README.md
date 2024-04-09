@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/woopos-419011.appspot.com/o/icon-192-maskable.png?alt=media" width="192" title="ShopSync Logo" style="border-radius: 96px">
+  <a href="https://play.google.com/store/apps/details?id=me.singularcitrus.shopsync" style="border-radius: 96px;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/woopos-419011.appspot.com/o/icon-192-maskable.png?alt=media" width="192" title="ShopSync Logo">
+  </a>
 </p>
 
 # ShopSync
